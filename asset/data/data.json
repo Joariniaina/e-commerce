@@ -1,0 +1,642 @@
+{
+    "produit1":[ 
+    {
+        "id" : 1,
+        "image" : "asset/images/basket/baskets-semerdjian-montantes-vert-metallise.jpg",
+        "name" : "baskets semerdjian montantes vert metallise",
+        "price" : 69.00,
+        "description": "Modèle Braga, vert métallisé. Baskets montantes, au dessus de la malléole, parfaites avec un jean 7/8ème ou même une robe.Semelle compensée et amovible. Prendre votre pointure habituelle",
+        "seize" :[36,37,38,39,40],
+        "mark": "semerdjian",
+        "NameSpecific": "pointure",
+        "stock" : 1
+    },
+    {
+        "id" : 2,
+        "image" : "asset/images/basket/baskets-cl11-montantes-blanches-motif-leopard.jpg",
+        "name" : "baskets cl11 montantes blanches motif leopard",
+        "price" : 69.90,
+        "description" :"Ces baskets CL11 montantes allient parfaitement confort et style ! La semelle intérieure est rembourrée pour un maximun de confort, la semelle extérieure est robuste pour plus de durabilité. Le blanc et le doré, le match parfait pour accorder tous vos looks de printemps ! ",
+        "seize" :[37,38,39,40],
+        "mark": "CL11",
+        "NameSpecific": "pointure",
+        "stock" : 1  
+    },
+    {
+        "id" : 3,
+        "image" : "asset/images/basket/baskets-victoria-gris-rose-et-arriere-jaune-fluo.jpg",
+        "name" : "baskets victoria gris rose et arriere jaune fluo",
+        "price" : 89.00,
+        "description": " ",
+        "seize" :[37,38,39,40],
+        "mark": "victoria",
+        "NameSpecific": "pointure",
+        "stock" : 1
+    },
+    {
+        "id" : 4,
+        "image" : "asset/images/basket/baskets-pepe-jeans-style-sneakers-blanc-et-argent.jpg",
+        "name" : "baskets pepe jeans style sneakers blanc et argent",
+        "price" : 99.00,
+        "description": "Baskets Pepe Jeans style sneakers blanc et argent, super légères, très confortables ! prendre votre pointure habituelle",
+        "seize" :[37,38,39,40],
+        "mark": "Pépé Jeans",
+        "NameSpecific": "pointure",
+        "stock" : 1
+    }],
+    "produit2":[
+        {
+            "id" : 1,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees1.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 35.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 2,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees2.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 37.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "stock" : 1,
+            "NameSpecific": "pointure"
+        },
+        {
+            "id" : 3,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees4.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 29.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 4,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees5.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 29.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 5,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees6.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 28.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 6,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees7.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 39.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 7,
+            "image" : "asset/images/escarpins/sandales-a-talon-dorees10.jpg",
+            "name" : "sandale à talon dorees",
+            "price" : 35.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 8,
+            "image" : "asset/images/escarpins/vanessa-wu-sandales-dorees-a-talons.jpg",
+            "name" : "vanessa wu sandales dorees à talons",
+            "price" : 40.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "vanessa wu",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        }],
+        "produit3":[
+        {
+            "id" : 1,
+            "image" : "asset/images/sandales/sandales-vanessa-wu-compensees-dorees-.jpg",
+            "name" : "sandales vanessa wu compensees dorees",
+            "price" : 40.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "vanessa wu",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 2,
+            "image" : "asset/images/sandales/semerdjian-sandales-en-corde-.jpg",
+            "name" : "semerdjian sandales en corde",
+            "price" : 43.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "semerdjian",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 3,
+            "image" : "asset/images/sandales/vanessa-wu-sandales-tressees-a-talon.jpg",
+            "name" : "vanessa wu sandales tressees à talon",
+            "price" : 42.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "vanessa wu",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id" : 4,
+            "image" : "asset/images/sandales/sandales-camel-a-talon-angel-alarcon-.jpg",
+            "name" : "sandales camel à talon angel alarcon",
+            "price" : 39.00,
+            "description": "",
+            "seize" :[36,37,38,39,40],
+            "mark": "camel",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        }],
+        "produit4":[
+            {
+                "id" : 1,
+                "image" : "asset/images/mocassins/mocassins-mi-mai-noirs-brillants.jpg",
+                "name" : "mocassins mi-mai noirs brillants",
+                "price" : 39.00,
+                "description": "Mocassins en cuir glacé, semelle crantée avec une chaîne noire et dorée ultra lookée, ils seront parfaits avec un jean mom. Ils taillent normalement, si vous êtes entre 2 pointures, optez pour la plus petite des 2. ",
+                "seize" :[36,37,38,39,40],
+                "mark": "mi-mai",
+                "NameSpecific": "pointure",
+                "stock" : 1
+            },
+            {
+                "id" : 2,
+                "image" : "asset/images/mocassins/mocassins-mi-mai-cuir-mat-.jpg",
+                "name" : "mocassins mi-mai cuir mat",
+                "price" : 40.00,
+                "description": "Mocassins en cuit italien mat, chaîne lookée ton sur ton, hyper confortables ! à marier avec tous vos pantalons (du moment que vous dégagez la cheville). Taillent normalement, si vous êtes entre 2 pointures, optez pour la plus petite des 2. ",
+                "seize" :[36,37,38,39,40],
+                "mark": "mi-mai",
+                "NameSpecific": "pointure",
+                "stock" : 1
+            }],
+        "echantillon": [
+        {
+            "id": 1,
+            "image":"/asset/images/sandales/sandales-double-brides-beige-.jpg",
+            "name": "Sandales doubes bridge beige",
+            "price": 69.00,
+            "description": "Sandales confort double bride beige en raphia. Brides réglables. Semelle rembourrée 100% cuir. Prenez votre pointure habituelle. Si vous êtes entre 2 pointures optez pour la plus grande des 2. ",
+            "seize" :[36,37,38,39,40],
+            "NameSpecific": "pointure",
+            "mark": "double bridge",
+            "stock" : 1
+            
+        },
+        {
+            "id": 2,
+            "image":"/asset/images/sandales/sandale-en-raphia-camel-.jpg",
+            "name": "Sandale en raphia camel",
+            "price": "69,00€",
+            "description": "Sandale en raphia camel, semelle cuir très confortable rembourrée, prend la forme du pied. Double bride en raphia, réglables. ",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id": 3,
+            "image":"asset/images/sandales/sandales-mi-mai-elvy-blanc.jpg",
+            "name": "sandales mi mai elvy blanc",
+            "price": "149,00€",
+            "description": "Sandales Mi Mai Elvy blanc, talon de 8 cm 100% cuir ",
+            "seize" :[36,37,38,39,40],
+            "mark": "mi-mai",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id": 4,
+            "image":"asset/images/sandales/sandales-mi-mai-dina-dorees-.jpg",
+            "name": "Sandales mi mai dina dorées",
+            "price": "159,00€",
+            "description": "Sandales Mi Mai Dina dorées, mules noeud en cuir très souple. Talon rond de 6.7 cm très stable. Légères confort incroyable. Prendre votre pointure habituelle. ",
+            "seize" :[36,37,38,39,40],
+            "mark": "",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id": 5,
+            "image":"asset/images/sandales/sandales-mi-mai-capri-nude-.jpg",
+            "name": "Sandales mi mai capri nude",
+            "price": "149,00€",
+            "description": "Sandales Mi Mai Capri nude, modèle phare de la marque dessiné par Diane Perreau",
+            "seize" :[36,37,38,39,40],
+            "mark": "mi-mai",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id": 6,
+            "image":"asset/images/sandales/sandales-mi-mai-capri-noir-.jpg",
+            "name": "Sandales mi mai capri noir",
+            "price": "149,00€",
+            "description": "Modèle phare de la marque dessiné par Diane Perreau, talon de 6 cm, très légères confort incroyable. ",
+            "seize" :[36,37,38,39,40],
+            "mark": "mi-mai",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id": 7,
+            "image":"asset/images/sandales/sneakers-victoria-blanc-rose-et-jaune.jpg",
+            "name": "Sneakers victoria blanc...",
+            "price": "119,00€",
+            "description": "Très souple, prendre votre pointure habituelle.",
+            "seize" :[36,37,38,39,40],
+            "mark": "victoria",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        },
+        {
+            "id": 8,
+            "image":"asset/images/sandales/sneakers-victoria-couleurs-pastel.jpg",
+            "name": "sneakers-victoria-couleurs...",
+            "price": "119,00€",
+            "description": "Très souple, prendre votre pointure habituelle.",
+            "seize" :[36,37,38,39,40],
+            "mark": "victoria",
+            "NameSpecific": "pointure",
+            "stock" : 1
+        }],
+        "produit5":[
+            {
+                "id": 1,
+                "image":"asset/images/robes/robe-leopard.jpg",
+                "name": "robe leopard",
+                "price": "39,00€",
+                "description": "",
+                "seize" :["s/M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/robes/robe-noire-pres-du-corps-fendue.jpg",
+                "name": "robe noire pres du corps fendue",
+                "price": "75,00€",
+                "description": "robe noire pres du corps fendue",
+                "seize" :["s/M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/robes/robe-tie-and-dye-rose-suncoo.jpg",
+                "name": "robe tie and dye rose suncoo",
+                "price": "149,00€",
+                "description": "Robe tie and dye rose Suncoo, col V, légère, effet satinée.",
+                "seize" :["S","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/robes/robe-jaune-brides-croisees.jpg",
+                "name": "robe jaune brides croisees",
+                "price": "100,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }   
+        ],
+        "produit6":[
+            {
+                "id": 1,
+                "image":"asset/images/jupes/jupe-leopard-violette-.jpg",
+                "name": "jupe leopard violette",
+                "price": "29,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/jupes/jupe-longue-leopard-.jpg",
+                "name": "jupe longue leopard",
+                "price": "39,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/jupes/jupe-plissee-rose-gold.jpg",
+                "name": "jupe plissee rose gold",
+                "price": "35,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/jupes/jupe-beige-stretch.jpg",
+                "name": "jupe beige stretch",
+                "price": "19,00€",
+                "description": "Jupe en stretch taille unique moulante du 34 au 38, parfaite portée avec un gros pull ",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit7":[
+            {
+                "id": 1,
+                "image":"asset/images/pantalon/jean-fam-coupe-mom.jpg",
+                "name": "jean fam coupe mom",
+                "price": "79,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/pantalon/pantalon-large-kaki-.jpg",
+                "name": "pantalon large kaki",
+                "price": "45,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/pantalon/pantalon-fam-coeurs-blancs.jpg",
+                "name": "pantalon fam coeurs blancs",
+                "price": "99,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/pantalon/pantalon-violet-large.jpg",
+                "name": "pantalon violet large",
+                "price": "90,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit8":[
+            {
+                "id": 1,
+                "image":"asset/images/veste&menteau/trench-beige-court.jpg",
+                "name": "trench beige court",
+                "price": "90,00€",
+                "description": "",
+                "seize" :[26,27,28,29],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/veste&menteau/veste-a-rayures-en-coton.jpg",
+                "name": "veste à yrayures en coton",
+                "price": "90,00€",
+                "description": "",
+                "seize" :[26,27,28,29],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/veste&menteau/veste-sans-manches-matelassee-beige-.jpg",
+                "name": "veste sans manches matelassee beige",
+                "price": "49,00€",
+                "description": "",
+                "seize" :[26,27,28,29],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/veste&menteau/veste-oversize-denim-sequins-argentes.jpg",
+                "name": "veste oversize denim sequins argentes",
+                "price": "60,00€",
+                "description": "",
+                "seize" :[26,27,28,29],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit9":[
+            {
+                "id": 1,
+                "image":"asset/images/teeshirt/gilet-beige-en-coton-effet-lin.jpg",
+                "name": "gilet beige en coton effet lin",
+                "price": "90,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/teeshirt/tee-shirt-blanc-motif-los-angeles.jpg",
+                "name": "tee-shirt blanc motif los-angeles",
+                "price": "90,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/teeshirt/top-vert-col-cheminee-.jpg",
+                "name": "top vert col cheminee",
+                "price": "49,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/teeshirt/top-noir-zebre-transparent-.jpg",
+                "name": "top noir zebre transparent",
+                "price": "61,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit10":[
+            {
+                "id": 1,
+                "image":"asset/images/debardeur/top-bleu-court-a-bretelles.jpg",
+                "name": "top bleu court à bretelles",
+                "price": "36,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit11":[
+            {
+                "id": 1,
+                "image":"asset/images/chemise/chemise-leopard-satinee-.jpg",
+                "name": "chemise leopard satinee",
+                "price": "25,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/chemise/chemise-blanche-oversize.jpg",
+                "name": "chemise blanche oversize",
+                "price": "35,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/chemise/chemise-leopard-satinee-.jpg",
+                "name": "chemise leopard satinee",
+                "price": "31,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/chemise/top-suncoo-a-manches-vert-et-violet.jpg",
+                "name": "top suncoo à manches vert et violet",
+                "price": "37,00€",
+                "description": "",
+                "seize" :["s","L","M"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit12":[
+            {
+                "id": 1,
+                "image":"asset/images/Pull&Gilet/gilet-beige-en-coton-effet-lin.jpg",
+                "name": "gilet beige en coton effet-lin",
+                "price": "45,00€",
+                "description": "",
+                "seize" :["TU"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 2,
+                "image":"asset/images/Pull&Gilet/pull-beige-love-.jpg",
+                "name": "pull-beige-love-.jpg",
+                "price": "40,00€",
+                "description": "",
+                "seize" :["PU"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 3,
+                "image":"asset/images/Pull&Gilet/pull-bleu-et-gris-amour-.jpg",
+                "name": "pull bleu et gris amour",
+                "price": "39,00€",
+                "description": "",
+                "seize" :["PU"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            },
+            {
+                "id": 4,
+                "image":"asset/images/Pull&Gilet/pull-kaki-detail-dore-love-poche-.jpg",
+                "name": "pull kaki detail dore love poche",
+                "price": "42,00€",
+                "description": "",
+                "seize" :["PU"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ],
+        "produit13":[
+            {
+                "id": 1,
+                "image":"asset/images/DropDeLaSemaine/sac-en-cuir-dore-.jpg",
+                "name": "sac en cuir dore",
+                "price": "43,00€",
+                "description": "",
+                "seize" :["PU"],
+                "mark": "joya le store",
+                "NameSpecific": "Taille",
+                "stock" : 1
+            }
+        ]                
+}
